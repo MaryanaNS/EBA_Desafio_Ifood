@@ -3,4 +3,4 @@ Análise exploratória realizada em uma base de dados de clientes Ifood utilizan
 
 Este projeto tem como objetivo consolidar o aprendizado adquirido no módulo de Estatística Descritiva do curso E.B.A - Estatística do Básico ao Avançado, a partir do desenvolvimento de uma análise exploratória de uma base de dados de clientes do Ifood (mkt_data.csv) com o intuito de entender o perfil dos clientes e a correlação entre os dados.
 
-A análise foi realizada utilizando Python e está disponível no Jupyter Notebook "Estatística_Descritiva_EBA_Desafio_Ifood.ipynb".
+A análise foi realizada utilizando Python e está disponível no Jupyter Notebook [Estatística_Descritiva_EBA_Desafio_Ifood.ipynb](https://github.com/MaryanaNS/Analise_Exploratoria_Ifood/blob/main/Estat%C3%ADstica_Descritiva_EBA_Desafio_Ifood.ipynb).
